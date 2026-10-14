@@ -1,0 +1,3 @@
+Review: 56 | Score: 0 | Sentiment: Neutral
+Review: very very good | Score: 1 | Sentiment: Positive
+Review: good | Score: 1 | Sentiment: Positive
